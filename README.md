@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@deno/mod.js';
+import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@v0.2.2-deno/mod.js';
 ```
 
 #### hasInt8ArraySupport()
@@ -65,7 +65,7 @@ var bool = hasInt8ArraySupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@deno/mod.js';
+import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@v0.2.2-deno/mod.js';
 
 var bool = hasInt8ArraySupport();
 if ( bool ) {
