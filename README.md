@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@esm/index.mjs';
+import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@v0.2.2-esm/index.mjs';
 ```
 
 #### hasInt8ArraySupport()
@@ -70,7 +70,7 @@ var bool = hasInt8ArraySupport();
 <body>
 <script type="module">
 
-import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@esm/index.mjs';
+import hasInt8ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int8array-support@v0.2.2-esm/index.mjs';
 
 var bool = hasInt8ArraySupport();
 if ( bool ) {
