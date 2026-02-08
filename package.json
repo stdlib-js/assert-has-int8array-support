@@ -44,7 +44,8 @@
     "@stdlib/cli-ctor": "^0.2.3",
     "@stdlib/constants-int8-max": "^0.2.3",
     "@stdlib/constants-int8-min": "^0.2.3",
-    "@stdlib/fs-read-file": "^0.2.3"
+    "@stdlib/fs-read-file": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-int8": "^0.2.2",
